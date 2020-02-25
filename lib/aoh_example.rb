@@ -24,6 +24,7 @@ end
 
 def aoh_lookup(aoh, row, key)
   
+  result = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
   result[row][key]
   
 end
